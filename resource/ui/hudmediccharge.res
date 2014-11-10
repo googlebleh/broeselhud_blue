@@ -152,14 +152,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"HealthClusterIcon"
-		"xpos"				"2"
-		"ypos"				"17"
-		"wide"				"36"
-		"tall"				"36"
+		"wide"				"0"
+		"tall"				"0"
 		"visible"			"0"
-		"enabled"			"1"
-		"image"				"../hud/ico_health_cluster"
-		"scaleImage"		"1"
+		"enabled"			"0"
 	}
 	
 	"IndividualChargesLabel"

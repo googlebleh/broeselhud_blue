@@ -393,11 +393,11 @@
 		"enabled"					"1"
 		"xpos"						"c-100"
 		"ypos"						"0"
-		"wide"						"215"
+		"wide"						"200"
 		"tall"						"480"
 		
 		"blue_active_xpos"			"40"
-		"red_active_xpos"			"120"
+		"red_active_xpos"			"121"
 	}
 	
 	HudItemEffectMeter
