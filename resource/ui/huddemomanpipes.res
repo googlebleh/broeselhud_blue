@@ -10,14 +10,33 @@
 		"enabled"				"0"
 	}
 	
+	"ChargeMeter"
+	{	
+		"ControlName"			"ContinuousProgressBar"
+		"fieldName"				"ChargeMeter"
+		"font"					"Default"
+		"xpos"					"0"
+		"ypos"					"15"
+		"zpos"					"2"
+		"wide"					"84"
+		"tall"					"6"
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"1"
+		"enabled"				"1"
+		"textAlignment"			"Left"
+		"dulltext"				"0"
+		"brighttext"			"0"
+	}
+	
 	"ChargeLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ChargeLabel"
 		"xpos"					"0"
-		"ypos"					"11"
+		"ypos"					"13"
 		"zpos"					"2"
-		"wide"					"74"
+		"wide"					"84"
 		"tall"					"9"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -30,25 +49,6 @@
 		"brighttext"			"0"
 		"font"					"ItemEffectMeterLabels"
 		"fgcolor_override"		"0 0 0 255"
-	}
-	
-	"ChargeMeter"
-	{	
-		"ControlName"			"ContinuousProgressBar"
-		"fieldName"				"ChargeMeter"
-		"font"					"Default"
-		"xpos"					"0"
-		"ypos"					"13"
-		"zpos"					"2"
-		"wide"					"74"
-		"tall"					"6"
-		"autoResize"			"0"
-		"pinCorner"				"0"
-		"visible"				"1"
-		"enabled"				"1"
-		"textAlignment"			"Left"
-		"dulltext"				"0"
-		"brighttext"			"0"
 	}
 	
 	"PipesPresentPanel"
@@ -76,8 +76,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"NumPipesLabel"
-			"xpos"				"25"
-			"ypos"				"-2"
+			"xpos"				"30"
+			"ypos"				"0"
 			"zpos"				"2"
 			"wide"				"24"
 			"tall"				"30"
@@ -90,7 +90,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"surface24shadow"
+			"font"				"surface24"
 			"fgcolor"			"255 255 255 255"
 		}
 		
@@ -98,8 +98,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"			"NumPipesLabelDropshadow"
-			"xpos"				"25"
-			"ypos"				"-2"
+			"xpos"				"30"
+			"ypos"				"0"
 			"zpos"				"2"
 			"wide"				"25"
 			"tall"				"31"

@@ -206,11 +206,12 @@ event DamagedPlayer
 	Animate DamageAccountValueBG       Alpha "255"          linear 0.0  0.0
 	Animate DamageAccountValueBG       Alpha "0"            linear 10.0 0.2
 	
-	Animate CrosshairXX FgColor "255 0 0 Opacity" Linear 0.0 0.00001
+	Animate CrosshairXX FgColor "R G B Opacity" Linear 0.0 0.00001
 	Animate CrosshairXX FgColor "R G B Opacity" Linear 0.15 0.15001
-	// The first line animates your HUD crosshair red, the second line changes the color back.
-	// You'll find your HUD crosshair's name in hudlayout.res, it's the fieldname value.
-	// Edit RGBO so it matches the HUD crosshair's color you set in hudlayout.res.
+	// The first line animates your HUD crosshair when you hit someone.
+	// The second line changes your HUD crosshair's colour back.
+	// Replace "CrosshairXX" with your HUD crosshair's fieldname.
+	// Edit the colours (R G B Opacity) to your liking.
 }
 
 //===========================================
