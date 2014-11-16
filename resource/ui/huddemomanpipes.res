@@ -35,7 +35,7 @@
 		"fieldName"				"ChargeLabel"
 		"xpos"					"0"
 		"ypos"					"13"
-		"zpos"					"2"
+		"zpos"					"3"
 		"wide"					"84"
 		"tall"					"9"
 		"autoResize"			"1"
