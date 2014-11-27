@@ -147,7 +147,7 @@
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"AmmoIcon"
-		"xpos"						"40"
+		"xpos"						"41"
 		"ypos"						"25" // "24" if the ammo icon is too low
 		"zpos"						"12"
 		"wide"						"8"
@@ -162,7 +162,7 @@
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"KillStreakIcon"
-		"xpos"						"41"
+		"xpos"						"42"
 		"ypos"						"25" // "24" if the killstreak icon is too low
 		"zpos"						"12"
 		"wide"						"8"
