@@ -133,7 +133,7 @@
 		"xpos"						"3"
 		"ypos"						"2"
 		"wide"						"33"
-		"tall"						"132"
+		"tall"						"33"
 		"visible"					"1"
 		"enabled"					"1"
 		"HealthBonusPosAdj"			"10"

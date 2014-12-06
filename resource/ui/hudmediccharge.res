@@ -88,7 +88,7 @@
 		"fieldName"			"ChargeLabel"
 		"xpos"				"c105"
 		"ypos"				"c108"
-		"zpos"				"2"
+		"zpos"				"3"
 		"wide"				"150"
 		"tall"				"65"
 		"autoResize"		"1"
@@ -130,7 +130,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ChargeLabelCenter"
-		"xpos"				"c-50"
+		"xpos"				"c-46"
 		"ypos"				"c15"
 		"zpos"				"3"
 		"wide"				"100"
@@ -145,7 +145,29 @@
 		"dulltext"			"0"
 		"brighttext"		"0"
 		"fgcolor"			"255 255 255 255"
-		"font"				"surface16shadow"
+		"font"				"surfaceNumbers16"
+	}
+	
+	"ChargeLabelCenterShadow"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"ChargeLabelCenterShadow"
+		"xpos"				"c-46"
+		"ypos"				"c15"
+		"zpos"				"2"
+		"wide"				"101"
+		"tall"				"16"
+		"autoResize"		"1"
+		"pinCorner"			"2"
+		"visible"			"0" // "1" to enable small Übercharge label below the crosshair (not Vaccinator compatible)
+		"enabled"			"1"
+		"tabPosition"		"0"
+		"labelText"			"#TF_UberchargeMinHUD"
+		"textAlignment"		"center"
+		"dulltext"			"0"
+		"brighttext"		"0"
+		"fgcolor"			"0 0 0 255"
+		"font"				"surfaceNumbers16"
 	}
 	
 	"HealthClusterIcon"

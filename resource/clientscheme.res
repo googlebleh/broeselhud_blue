@@ -6,7 +6,6 @@ Scheme{Colors{
 
 
 	"HP"					"255 255 255 255"
-	
 	"low HP"				"255 255 255 255"
 	"buffed HP"				"255 255 255 255"
 	"buff shadow"			"0 0 0 255" // "50 205 50 255" to enable the green buff shadow
@@ -494,18 +493,6 @@ Scheme{Colors{
 				"outline"	"0"
 			}
 		}
-		surface10shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"10"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
-			}
-		}
 		surface11
 		{
 			"1"
@@ -528,18 +515,6 @@ Scheme{Colors{
 				"outline"	"0"
 			}
 		}
-		surface12shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"12"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
-			}
-		}
 		surface13
 		{
 			"1"
@@ -549,18 +524,6 @@ Scheme{Colors{
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
-			}
-		}
-		surface13shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"13"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
 			}
 		}
 		surface14
@@ -620,18 +583,6 @@ Scheme{Colors{
 				"outline"	"0"
 			}
 		}
-		surface16shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"16"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
-			}
-		}
 		surface18
 		{
 			"1"
@@ -652,18 +603,6 @@ Scheme{Colors{
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"1"
-			}
-		}
-		surface18shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"18"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
 			}
 		}
 		surface20
@@ -688,18 +627,6 @@ Scheme{Colors{
 				"outline"	"1"
 			}
 		}
-		surface20shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"20"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
-			}
-		}
 		surface23
 		{
 			"1"
@@ -720,18 +647,6 @@ Scheme{Colors{
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"1"
-			}
-		}
-		surface23shadow
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
-				"tall"		"23"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
 			}
 		}
 		surface24
@@ -768,18 +683,6 @@ Scheme{Colors{
 				"outline"	"0"
 			}
 		}
-		surface26shadow
-		{
-			"1"
-			{
-				"name"		"SurfaceSharpened-Medium"
-				"tall"		"26"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
-			}
-		}
 		surface28
 		{
 			"1"
@@ -789,18 +692,6 @@ Scheme{Colors{
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
-			}
-		}
-		surface28shadow
-		{
-			"1"
-			{
-				"name"		"SurfaceSharpened-Medium"
-				"tall"		"28"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
 			}
 		}
 		surface32
@@ -825,46 +716,12 @@ Scheme{Colors{
 				"outline"	"0"
 			}
 		}
-		surface36shadow
+		surface48
 		{
 			"1"
 			{
 				"name"		"SurfaceSharpened-Medium"
-				"tall"		"36"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-				"dropshadow"	"1"
-			}
-		}
-		surface40
-		{
-			"1"
-			{
-				"name"		"SurfaceSharpened-Medium"
-				"tall"		"40"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		surface46
-		{
-			"1"
-			{
-				"name"		"SurfaceSharpened-Medium"
-				"tall"		"46"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		surface52
-		{
-			"1"
-			{
-				"name"		"SurfaceSharpened-Medium"
-				"tall"		"52"
+				"tall"		"48"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -876,17 +733,6 @@ Scheme{Colors{
 			{
 				"name"		"SurfaceSharpened-Medium"
 				"tall"		"60"
-				"additive"	"0"
-				"antialias" 	"1"
-				"outline"	"0"
-			}
-		}
-		surface72
-		{
-			"1"
-			{
-				"name"		"SurfaceSharpened-Medium"
-				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
@@ -910,6 +756,17 @@ Scheme{Colors{
 			{
 				"name"		"SurfaceNumbers-Medium"
 				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+				"outline"	"0"
+			}
+		}
+		surfaceNumbers16
+		{
+			"1"
+			{
+				"name"		"SurfaceNumbers-Medium"
+				"tall"		"16"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"

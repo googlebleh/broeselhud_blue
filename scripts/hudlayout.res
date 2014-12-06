@@ -276,7 +276,7 @@
 		"fgcolor"					"255 255 255 255"
 	}
 	
-	"thin wings"
+	"yz50 wings"
 	{
 		"controlName"				"CExLabel"
 		"fieldName"					"Crosshair17"
@@ -430,7 +430,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"c-42"
-		"ypos"						"c135"
+		"ypos"						"c125"
 		"zpos"						"1"
 		"wide"						"84"
 		"tall"						"8"
@@ -444,7 +444,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"c-42"
-		"ypos"						"c135"
+		"ypos"						"c125"
 		"zpos"						"1"
 		"wide"						"84"
 		"tall"						"50"
@@ -1260,7 +1260,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"c-42"
-		"ypos"						"c110"
+		"ypos"						"c100"
 		"wide"						"84"
 		"tall"						"50"
 	}
