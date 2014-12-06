@@ -115,7 +115,7 @@
 		"tall"				"66"
 		"autoResize"		"1"
 		"pinCorner"			"2"
-		"visible"			"0" // "1" to enable proper Übercharge label shadow (not Vaccinator compatible)
+		"visible"			"0" // "1" to enable proper Ubercharge label shadow (not Vaccinator compatible)
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"#TF_UberchargeMinHUD"
@@ -137,7 +137,7 @@
 		"tall"				"15"
 		"autoResize"		"1"
 		"pinCorner"			"2"
-		"visible"			"0" // "1" to enable small Übercharge label below the crosshair (not Vaccinator compatible)
+		"visible"			"0" // "1" to enable small Ubercharge label below the crosshair (not Vaccinator compatible)
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"#TF_UberchargeMinHUD"
@@ -159,7 +159,7 @@
 		"tall"				"16"
 		"autoResize"		"1"
 		"pinCorner"			"2"
-		"visible"			"0" // "1" to enable small Übercharge label below the crosshair (not Vaccinator compatible)
+		"visible"			"0" // "1" to enable small Ubercharge label below the crosshair (not Vaccinator compatible)
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"labelText"			"#TF_UberchargeMinHUD"
