@@ -21,7 +21,7 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"../hud/color_panel_brown"
+			"image"			"../hud/color_panel_blu"
 			"scaleImage"		"1"	
 			
 			"src_corner_height"		"23"				// pixels inside the image
