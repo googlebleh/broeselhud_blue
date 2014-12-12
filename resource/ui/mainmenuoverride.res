@@ -118,7 +118,48 @@
 				"zpos"			"9"
 			}
 		}
-	}	
+	}
+	
+	"mouseoveritempanel"
+	{
+		"ControlName"	"CItemModelPanel"
+		"fieldName"		"mouseoveritempanel"
+		"xpos"			"c-70"
+		"ypos"			"270"
+		"zpos"			"100"
+		"wide"			"300"
+		"tall"			"300"
+		"visible"		"0"
+		"bgcolor_override"		"0 0 0 0"
+		"noitem_textcolor"		"117 107 94 255"
+		"PaintBackgroundType"	"2"
+		"paintborder"	"1"
+		"border"		"MainMenuBGBorder"
+		
+		"text_ypos"			"20"
+		"text_center"		"1"
+		"model_hide"		"1"
+		"resize_to_text"	"1"
+		"padding_height"	"15"
+		
+		"attriblabel"
+		{
+			"font"			"ItemFontAttribLarge"
+			"xpos"			"0"
+			"ypos"			"30"
+			"zpos"			"2"
+			"wide"			"140"
+			"tall"			"60"
+			"autoResize"	"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"labelText"		"%attriblist%"
+			"textAlignment"	"center"
+			"fgcolor"		"117 107 94 255"
+			"centerwrap"	"1"
+		}
+	}
 
 	"WarningLabel"
 	{
@@ -971,54 +1012,6 @@
 			}
 		}
 	}	
-	
-	"HTMLContainer"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldName"		"HTMLContainer"
-		"xpos"			"c"
-		"ypos"			"130"
-		"wide"			"0"
-		"tall"			"240"
-		"autoResize"	"3"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"1"
-		"tabPosition"	"0"
-		"border"		"MainMenuBGBorder"
-
-		"HTMLLabel"
-		{
-			"ControlName"	"CExLabel"
-			"fieldName"		"HTMLLabel"
-			"font"			"HudFontSmallestBold"
-			"labelText"		"#MMenu_HTML"
-			"textAlignment"	"north-west"
-			"xpos"			"5"
-			"ypos"			"5"
-			"wide"			"290"
-			"tall"			"15"
-			"autoResize"	"0"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-		}
-
-		"HTML"
-		{
-			"ControlName"	"HTML"
-			"fieldName"		"HTML"
-			"xpos"			"5"
-			"ypos"			"25"
-			"wide"			"290"
-			"tall"			"210"
-			"autoResize"	"3"
-			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-		}
-	}
 	
 	"TrainingButton"
 	{
