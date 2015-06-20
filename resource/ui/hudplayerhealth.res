@@ -556,4 +556,23 @@
 		"pin_corner_to_sibling"		"1"
 		"pin_to_sibling_corner"		"1"
 	}
+	
+	"PlayerStatus_RuneKnockout"
+	{
+		"ControlName"				"ImagePanel"
+		"fieldName"					"PlayerStatus_RuneKnockout"
+		"xpos"						"0"
+		"ypos"						"-4"
+		"zpos"						"7"
+		"wide"						"30"
+		"tall"						"30"
+		"visible"					"1"
+		"enabled"					"1"
+		"scaleImage"				"1"
+		"image"						"../Effects/powerup_knockout_hud"
+		"fgcolor"					"TanDark"
+		"pin_to_sibling"			"PlayerStatusAnchor"
+		"pin_corner_to_sibling"		"1"
+		"pin_to_sibling_corner"		"1"
+	}
 }

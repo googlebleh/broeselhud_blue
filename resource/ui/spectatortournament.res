@@ -11,12 +11,12 @@
 		"enabled"			"1"
 		//"zpos"				"1000"
 		
-		"team1_player_base_offset_x"	"-380"
+		"team1_player_base_offset_x"	"0"
 		"team1_player_base_y"			"194"
 		"team1_player_delta_x"		"0"
 		"team1_player_delta_y"		"15"
 
-		"team2_player_base_offset_x"	"-380"
+		"team2_player_base_offset_x"	"0"
 		"team2_player_base_y"			"175"
 		"team2_player_delta_x"		"0"
 		"team2_player_delta_y"		"-15"
