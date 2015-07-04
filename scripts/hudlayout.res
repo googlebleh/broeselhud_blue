@@ -556,7 +556,7 @@
 		"fieldName"					"DisguiseStatus"
 		"visible"					"1"
 		"enabled"					"1"
-		"xpos"						"84"
+		"xpos"						"80"
 		"ypos"						"c210"
 		"wide"						"150"
 		"tall"						"50"
@@ -1471,10 +1471,11 @@
 		"fieldName"					"HudInspectPanel"
 		"visible"					"0"
 		"enabled"					"1"
-		"xpos"						"r270"
-		"ypos"						"195"
-		"wide"						"270"
-		"tall"						"150"
+		"xpos"						"r230"
+		"ypos"						"rs1"
+		"zpos"						"10"
+		"wide"						"220"
+		"tall"						"f0"
 	}
 	
 	HudTFCrosshair
@@ -1646,6 +1647,18 @@
 		"PaintBackgroundType"		"0"
 	}
 	
+	"ItemAttributeTracker"
+	{
+		"fieldName"					"ItemAttributeTracker"
+		"visible"					"1"
+		"enabled"					"1"
+		"xpos"						"0"
+		"ypos"						"0"
+		"wide"						"f5"
+		"tall"						"f0"
+		"PaintBackgroundType"		"0"
+	}
+	
 	HudMiniGame
 	{
 		"fieldName"					"HudMiniGame"
@@ -1655,5 +1668,28 @@
 		"ypos"						"0"
 		"wide"						"f0"
 		"tall"						"480"
+	}
+	
+	"QuestNotificationPanel"
+	{
+		"fieldName"					"QuestNotificationPanel"
+		"visible"					"1"
+		"enabled"					"1"
+		"xpos"						"0"
+		"ypos"						"0"
+		"wide"						"f0"
+		"tall"						"f0"
+	}
+
+	"QuestLogContainer"
+	{
+		"ControlName"				"EditablePanel"
+		"fieldName"					"QuestLogContainer"
+		"visible"					"1"
+		"enabled"					"1"
+		"xpos"						"0"
+		"ypos"						"0"
+		"wide"						"f0"
+		"tall"						"f0"
 	}
 }

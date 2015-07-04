@@ -15,8 +15,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
+		"medal_width"		"15"
 		"avatar_width"		"57"
-		"name_width"		"95" // "90" if ping column cuts off
+		"name_width"		"85" // lower this value if the ping column cuts off
 		"status_width"		"15"
 		"nemesis_width"		"15"
 		"class_width"		"15"
