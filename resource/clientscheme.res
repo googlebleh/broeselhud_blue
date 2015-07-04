@@ -6236,7 +6236,7 @@ Scheme{Colors{
 				"range" "0x0000 0x0451"
 			}	
 		}
-		"4" 
+		"4"
 		{
 			"font" "resource/TF2Secondary.ttf"
 			"name" "TF2 Secondary"
@@ -6301,7 +6301,7 @@ Scheme{Colors{
 				"range" "0x0000 0x0451"
 			}	
 		}
-		"5" 
+		"5"
 		{
 			"font" "resource/TF2Professor.ttf"
 			"name" "TF2 Professor"
@@ -6354,7 +6354,7 @@ Scheme{Colors{
 				"range" "0x0000 0x017E"
 			}	
 		}	
-		"6" 
+		"6"
 		{
 			"font" "resource/TF2Build.ttf"
 			"name" "TF2 Build"
@@ -6415,11 +6415,7 @@ Scheme{Colors{
 				"range" "0x0000 0x0451"
 			}
 		}
-		"7"
-		{
-			"font" "resource/ocra.ttf"
-			"name" "OCRA"
-		}
+		"7" "resource/ocra.ttf"
 		"8"
 		{
 			"font" "resource/fonts/Surface.otf"
