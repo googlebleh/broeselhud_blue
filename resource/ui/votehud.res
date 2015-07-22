@@ -10,8 +10,8 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"TFFatLineBorderOpaque"
-				
+		"border"		"TFFatLineBorder"
+		
 		"PassedIcon"
 		{
 			"ControlName"	"ImagePanel"
@@ -76,7 +76,7 @@
 		"tall"			"144"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"TFFatLineBorderOpaque"
+		"border"		"TFFatLineBorder"
 		
 		"Header"
 		{
@@ -392,8 +392,8 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"TFFatLineBorderOpaque"
-				
+		"border"		"TFFatLineBorder"
+		
 		"FailedIcon"
 		{
 			"ControlName"	"ImagePanel"
@@ -458,8 +458,8 @@
 		"tall"			"67"
 		"visible"		"0"
 		"enabled"		"1"
-		"border"		"TFFatLineBorderOpaque"
-				
+		"border"		"TFFatLineBorder"
+		
 		"FailedIcon"
 		{
 			"ControlName"	"ImagePanel"
@@ -559,7 +559,7 @@
 			"wrap"			"0"
 			"fgcolor"		"255 255 255 255"
 		}
-									
+		
 		"VoteSetupList"
 		{
 			"ControlName"	"SectionedListPanel"
