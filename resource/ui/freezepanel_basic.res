@@ -208,7 +208,7 @@
 		
 		"text_xpos"						"10"
 		"text_ypos"						"10"
-		"text_wide"						"190"
+		"text_wide"						"200"
 		"text_center"					"1"
 		
 		"max_text_height"				"100"
