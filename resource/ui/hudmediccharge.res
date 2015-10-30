@@ -101,7 +101,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"font"						"surfaceUber"
-		"fgcolor"					"255 255 255 255"
+		"fgcolor"					"Ubercharge Label"
 	}
 	
 	"ChargeLabelShadow"
