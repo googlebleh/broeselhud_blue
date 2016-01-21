@@ -15,7 +15,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"medal_width"				"15"
+		"medal_width"				"0"
 		"avatar_width"				"57"
 		"spacer"					"1"
 		"name_width"				"85" // lower this value if the ping column cuts off
