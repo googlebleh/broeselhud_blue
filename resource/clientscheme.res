@@ -2976,6 +2976,31 @@ Scheme{Colors{
 			}
 		}
 		
+		"MatchSummaryTeamScores"
+		{
+			"1"
+			{
+				"name"		"TF2"
+				"tall"		"36"
+				"weight"	"500"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+				"antialias"	"1"
+				"additive"	"0"
+			}
+		}
+		
+		"MatchSummaryStatsAndMedals"
+		{
+			"1"
+			{
+				"name"		"TF2 Secondary"
+				"tall"		"14"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias"	"1"
+			}
+		}
+		
 		"ControlPointTimer"
 		{
 			"1"
@@ -4378,9 +4403,9 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"loadout_round_rect"
-			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_height"		"24"
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"11"
 			"draw_corner_height" 	"11"	
 		}
 		
@@ -4391,9 +4416,9 @@ Scheme{Colors{
 			
 			"image"					"../hud/tournament_panel_brown"
 			//"image"					"../hud/color_panel_browner"
-			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_height"		"23"
 			"src_corner_width"		"23"
-			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"8"
 			"draw_corner_height" 	"8"	
 		}
 		TFFatLineBorderOpaque
@@ -4402,9 +4427,9 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"../hud/color_panel_brown_opaque"
-			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_height"		"23"
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"5"
 			"draw_corner_height" 	"5"	
 		}
 		TFFatLineBorder
@@ -4413,9 +4438,9 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"../hud/color_panel_brown"
-			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_height"		"23"
 			"src_corner_width"		"23"
-			"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"3"
 			"draw_corner_height" 	"3"	
 		}
 		TFFatLineBorderRedBGOpaque
@@ -4424,9 +4449,9 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"../hud/color_panel_red_opaque"
-			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_height"		"23"
 			"src_corner_width"		"23"
-			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"5"
 			"draw_corner_height" 	"5"	
 		}
 		TFFatLineBorderRedBGOpaque_Store
@@ -4435,9 +4460,9 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"../hud/color_panel_red_opaque"
-			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_height"		"24"
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"11"
 			"draw_corner_height" 	"11"	
 		}
 		TFFatLineBorderRedBG
@@ -4446,9 +4471,9 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"../hud/color_panel_red"
-			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_height"		"23"
 			"src_corner_width"		"23"
-			"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"3"
 			"draw_corner_height" 	"3"	
 		}
 		TFFatLineBorderBlueBG
@@ -4457,12 +4482,34 @@ Scheme{Colors{
 			"backgroundtype"		"2"
 			
 			"image"					"../hud/color_panel_blu"
-			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_height"		"23"
 			"src_corner_width"		"23"
-			"draw_corner_width"		"3"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_width"		"3"
 			"draw_corner_height" 	"3"	
 		}
-
+		TFFatLineBorderBlueBGOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_opaque"
+			"src_corner_height"		"23"
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"
+			"draw_corner_height"	"5"	
+		}
+		TFFatLineBorderClearBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_clear"
+			"src_corner_height"		"23"
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"
+			"draw_corner_height"	"5"	
+		}
+		
 		ToolTipBorder
 		{
 			"inset" "0 0 1 1"
