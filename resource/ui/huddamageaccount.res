@@ -12,13 +12,20 @@
 		"delta_item_font"		"surface20outline"
 		"delta_item_font_big"	"surface20outline"
 	}
-	
+
 	"DamageAccountValue"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"DamageAccountValue"
-		"xpos"					"c110"
-		"ypos"					"r145"
+
+		// original values - display over ammo
+		// "xpos"					"c110"
+		// "ypos"					"r145"
+
+		// custom values - display over health
+		"xpos"					"260"
+		"ypos"					"r155"
+
 		"zpos"					"2"
 		"wide"					"100"
 		"tall"					"26"
@@ -29,13 +36,20 @@
 		"fgcolor"				"Last Damage done"
 		"font"					"surface20"
 	}
-	
+
 	"DamageAccountValueBG"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"DamageAccountValueBG"
-		"xpos"					"c110"
-		"ypos"					"r145"
+
+		// original values - display over ammo
+		// "xpos"					"c110"
+		// "ypos"					"r145"
+
+		// custom values - display over health
+		"xpos"					"260"
+		"ypos"					"r155"
+
 		"zpos"					"1"
 		"wide"					"101"
 		"tall"					"27"

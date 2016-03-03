@@ -9,7 +9,7 @@
 		"zpos"						"3"
 		"wide"						"128"
 		"tall"						"128"
-		"visible"					"0" // "1" to enable the team-colored HP cross border
+		"visible"					"1" // "0" to disable the team-colored HP cross border
 		"enabled"					"1"
 		"image"						"replay/thumbnails/health_border_red"
 		"teambg_2"					"replay/thumbnails/health_border_red"
