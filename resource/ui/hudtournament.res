@@ -4,12 +4,12 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"				"HudTournament"
-				
+		
 		"xpos"					"0"
 		"ypos"					"0"
 		"wide"					"f0"
 		"tall"					"480"
-
+	
 		"team1_player_base_offset_x"		"0"
 		"team1_player_base_y"				"86"
 		"team1_player_delta_x"				"0"
@@ -18,6 +18,7 @@
 		"team2_player_base_y"				"40"
 		"team2_player_delta_x"				"45"
 		"team2_player_delta_y"				"18"
+		"teams_player_delta_x_comp"			"45"
 		
 		"playerpanels_kv"
 		{
@@ -28,7 +29,7 @@
 			
 			"color_ready"	"0 255 0 220"
 			"color_notready"	"0 0 0 220"
-										  			
+			
 			"playername"
 			{
 				"ControlName"	"CExLabel"
@@ -480,7 +481,7 @@
 		"xpos"			"c-16"
 		"ypos"			"r40"
 		"zpos"			"-1"
-		"wide"			"32"
+		"wide"			"0"
 		"tall"			"19"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -497,21 +498,22 @@
 
 	"CountdownLabel"
 	{	
-		"ControlName"		"CExLabel"
+		"ControlName"	"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"surface18"
+		"font"			"surface20"
 		"xpos"			"c-16"
 		"ypos"			"r40"
 		"wide"			"32"
 		"tall"			"18"
 		"zpos"			"1"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
-		"textAlignment"		"center"
+		"textAlignment"	"center"
+		"fgcolor"		"255 255 255 255"
 	}
 	
 	"CountdownLabelShadow"
