@@ -441,12 +441,7 @@
 		
 		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"3"
-		"scaleImage"		"1"	
-		
-		if_competitive
-		{
-			"ypos"		"20"
-		}
+		"scaleImage"		"1"
 		
 		if_mvm
 		{
@@ -471,11 +466,6 @@
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
 		"textAlignment"		"center"
-		
-		if_competitive
-		{
-			"ypos"		"10"
-		}
 		
 		if_mvm
 		{

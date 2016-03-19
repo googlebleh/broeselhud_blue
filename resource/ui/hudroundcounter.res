@@ -85,4 +85,23 @@
 		"draw_corner_width"		"0"
 		"draw_corner_height"	"0"
 	}
+	
+	"BackgroundGrey"
+	{
+		"ControlName"			"ScalableImagePanel"
+		"fieldName"				"BackgroundGrey"
+		"xpos"					"c-41"
+		"ypos"					"-2"
+		"zpos"					"-1"
+		"wide"					"83"
+		"tall"					"26"
+		"image"					"../HUD/color_panel_brown"
+		"proportionaltoparent"	"1"
+		
+		"src_corner_height"		"23"
+		"src_corner_width"		"23"
+		
+		"draw_corner_width"		"3"
+		"draw_corner_height"	"3"
+	}
 }

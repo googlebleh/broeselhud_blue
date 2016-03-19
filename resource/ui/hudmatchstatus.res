@@ -67,7 +67,7 @@
 		"fieldName"				"ObjectiveStatusTimePanel"
 		"xpos"					"c-50"
 		"ypos"					"0"
-		"zpos"					"1"
+		"zpos"					"4"
 		"wide"					"115"
 		"tall"					"150"
 		"visible"				"0"
@@ -82,10 +82,9 @@
 		
 		if_comp
 		{
-			"ypos"					"10"
-			"delta_item_x"			"32"
-			"delta_item_start_y"	"12"
-			"delta_item_end_y"		"12"
+			"ypos"				"9"
+			"delta_item_x"		"63"
+			"delta_item_font"	"surface13"
 		}
 		
 		"TimePanelValue"
@@ -96,7 +95,7 @@
 			"fgcolor"			"255 255 255 255"
 			"xpos"				"0"
 			"ypos"				"0"
-			"zpos"				"3"
+			"zpos"				"4"
 			"wide"				"100"
 			"tall"				"13"
 			"visible"			"1"
