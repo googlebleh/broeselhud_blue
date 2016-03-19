@@ -131,22 +131,20 @@ event HudMedicChargedStop
 
 event ActiveTimerBGPulse
 {
-	//Animate	ActiveTimerBG	Alpha	"0"		linear 0.1 0.1
-	//Animate	ActiveTimerBG	Alpha	"255"	linear 0.3 0.1
-	
-	//Animate	ActiveTimerBG	Alpha	"0"		linear 0.5 0.1
-	//Animate	ActiveTimerBG	Alpha	"255"	linear 0.7 0.1
-	
-	//Animate	ActiveTimerBG	Alpha	"0"		linear 0.9 0.1
-	//Animate	ActiveTimerBG	Alpha	"255"	linear 1.1 0.1
+}
+
+event ActiveTimerHighlight
+{
+}
+
+event ActiveTimerDim
+{
 }
 
 event CompetitiveGame_LowerChatWindow
 {
-	//Animate HudChat ypos r140 accel 0 0
 }
 
 event CompetitiveGame_RestoreChatWindow
 {
-	//Animate HudChat ypos 275 accel 0 0
 }

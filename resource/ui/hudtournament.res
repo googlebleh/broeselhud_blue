@@ -219,7 +219,8 @@
 		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"3"	
 
-		if_mvm {
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -242,7 +243,8 @@
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"north-west"
 		
-		if_mvm {
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -268,7 +270,13 @@
 		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"3"	
 		
-		if_mvm {
+		if_competitive
+		{
+			"visible"	"0"
+		}
+		
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -290,7 +298,13 @@
 		"labelText"		"%bluenamelabel%"
 		"textAlignment"		"west"
 		
-		if_mvm {
+		if_competitive
+		{
+			"visible"	"0"
+		}
+		
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -312,7 +326,13 @@
 		"labelText"		"%bluestate%"
 		"textAlignment"		"east"
 		
-		if_mvm {
+		if_competitive
+		{
+			"visible"	"0"
+		}
+		
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -338,7 +358,13 @@
 		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"3"	
 		
-		if_mvm {
+		if_competitive
+		{
+			"visible"	"0"
+		}
+		
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -360,7 +386,13 @@
 		"labelText"		"%rednamelabel%"
 		"textAlignment"		"east"
 		
-		if_mvm {
+		if_competitive
+		{
+			"visible"	"0"
+		}
+		
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -382,7 +414,13 @@
 		"labelText"		"%redstate%"
 		"textAlignment"		"west"
 		
-		if_mvm {
+		if_competitive
+		{
+			"visible"	"0"
+		}
+		
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -403,9 +441,10 @@
 		
 		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
 		"draw_corner_height" 	"3"
-		"scaleImage"		"1"	
+		"scaleImage"		"1"
 		
-		if_mvm {
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
@@ -428,7 +467,8 @@
 		"labelText"		"%winconditions%"
 		"textAlignment"		"center"
 		
-		if_mvm {
+		if_mvm
+		{
 			"visible"	"0"
 		}
 	}
