@@ -52,11 +52,11 @@
 	{
 		"ControlName"			"ScalableImagePanel"
 		"fieldName"				"BackgroundBlue"
-		"xpos"					"c-39"
+		"xpos"					"c-38"
 		"ypos"					"0"
 		"zpos"					"0"
-		"wide"					"40"
-		"tall"					"11"
+		"wide"					"39"
+		"tall"					"10"
 		"image"					"../HUD/color_panel_blu"
 		"proportionaltoparent"	"1"
 		
@@ -74,8 +74,8 @@
 		"xpos"					"c1"
 		"ypos"					"0"
 		"zpos"					"0"
-		"wide"					"40"
-		"tall"					"11"
+		"wide"					"39"
+		"tall"					"10"
 		"image"					"../HUD/color_panel_red"
 		"proportionaltoparent"	"1"
 		
@@ -90,10 +90,10 @@
 	{
 		"ControlName"			"ScalableImagePanel"
 		"fieldName"				"BackgroundGrey"
-		"xpos"					"c-41"
+		"xpos"					"c-40"
 		"ypos"					"-2"
 		"zpos"					"-1"
-		"wide"					"83"
+		"wide"					"81"
 		"tall"					"26"
 		"image"					"../HUD/color_panel_brown"
 		"proportionaltoparent"	"1"

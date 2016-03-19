@@ -82,7 +82,7 @@
 		
 		if_comp
 		{
-			"ypos"				"9"
+			"ypos"				"8"
 			"delta_item_x"		"63"
 			"delta_item_font"	"surface13"
 		}
