@@ -473,10 +473,10 @@
         }
     }
 	
-	"RequestCoachButton"
+	"ReportPlayerButton"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldname"		"RequestCoachButton"
+		"fieldname"		"ReportPlayerButton"
 		"xpos"			"65"
 		"ypos"			"135"
 		"zpos"			"11"
@@ -972,67 +972,6 @@
 		"fieldname"		"GeneralStoreButton"
 		"xpos"			"65"
 		"ypos"			"233"
-		"zpos"			"11"
-		"wide"			"100"
-		"tall"			"14"
-		"visible"		"1"
-		"PaintBackgroundType"	"2"
-
-		"SubButton"
-		{
-			"ControlName"	"CExImageButton"
-			"fieldName"		"SubButton"
-			"xpos"			"0"
-			"ypos"			"0"
-			"wide"			"100"
-			"tall"			"14"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"textinsetx"	"0"
-			"use_proportional_insets" "1"
-			"font"			"surface14"
-			"textAlignment"	"west"
-			"dulltext"		"0"
-			"brighttext"	"0"
-			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
-			
-			"border_default"	""
-			"border_armed"		""
-			"paintbackground"	"0"
-			
-			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "0 191 255 255"
-			"depressedFgColor_override" "0 191 255 255"
-			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"235 226 202 255"
-			"SubImage"
-			{
-				"ControlName"	"ImagePanel"
-				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
-			}		
-		}
-	}
-	
-	"ReplayBrowserButton"
-	{
-		"ControlName"	"EditablePanel"
-		"fieldname"		"ReplayBrowserButton"
-		"xpos"			"9999"
-		"ypos"			"9999"
 		"zpos"			"11"
 		"wide"			"100"
 		"tall"			"14"
