@@ -45,7 +45,6 @@
 			if_comp
 			{
 				"font"			"surface14"
-				"fgcolor"		"30 144 255 255"
 			}
 		}
 	}
@@ -87,7 +86,6 @@
 			if_comp
 			{
 				"font"			"surface14"
-				"fgcolor"		"220 20 60 255"
 			}
 		}
 	}

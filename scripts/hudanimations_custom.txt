@@ -129,15 +129,21 @@ event HudMedicChargedStop
 	Animate ChargeLabel	FgColor	"Ubercharge Label"	linear 0.0 0.0
 }
 
-event ActiveTimerBGPulse
-{
-}
-
 event ActiveTimerHighlight
 {
+	Animate TimePanelValue	FgColor	"255 255 255 255"	linear 0.0 0.0
 }
 
 event ActiveTimerDim
+{
+	Animate TimePanelValue	FgColor	"192 192 192 255"	linear 0.0 0.0
+}
+
+event OvertimeLabelPulseRed
+{
+}
+
+event SuddenDeathLabelPulseRed
 {
 }
 
