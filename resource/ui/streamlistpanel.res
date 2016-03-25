@@ -7,7 +7,7 @@
 		"xpos"						"0"
 		"ypos"						"0"
 		"wide"						"300"
-		"tall"						"22"
+		"tall"						"24"
 		"visible"					"1"
 		
 		"HeaderLabel"
@@ -20,7 +20,7 @@
 			"xpos"					"0"
 			"ypos"					"0"
 			"wide"					"300"
-			"tall"					"25"
+			"tall"					"24"
 			"autoResize"			"0"
 			"pinCorner"				"0"
 			"visible"				"1"
