@@ -27,7 +27,7 @@
 			"enabled"				"1"
 			"PaintBackgroundType"	"2"
 			"fgcolor_override"		"255 255 255 255"
-			"bgcolor_override"		"0 0 0 25"
+			"bgcolor_override"		"0 0 0 35"
 		}
 	}
 	
