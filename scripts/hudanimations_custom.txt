@@ -136,7 +136,7 @@ event ActiveTimerHighlight
 
 event ActiveTimerDim
 {
-	Animate TimePanelValue	FgColor	"192 192 192 255"	linear 0.0 0.0
+	Animate TimePanelValue	FgColor	"160 160 160 255"	linear 0.0 0.0
 }
 
 event OvertimeLabelPulseRed

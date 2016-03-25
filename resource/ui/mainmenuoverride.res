@@ -171,8 +171,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"0"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -211,14 +210,10 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 	}
@@ -233,7 +228,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -272,16 +267,11 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
-			}				
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
 	}
 	
@@ -295,8 +285,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"0"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -335,14 +324,10 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 	}
@@ -396,16 +381,11 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
-			}				
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
 	}
 	
@@ -420,9 +400,7 @@
         "tall"          "14"
         "visible"       "1"
         "enabled"       "1"
-        "PaintBackgroundType"   "0"
-
-
+		
         "SubButton"
         {
             "ControlName"   "CExImageButton"
@@ -457,19 +435,15 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
 
-            "SubImage"
-            {
-                "ControlName"   "ImagePanel"
-                "fieldName"     "SubImage"
-                "xpos"          "9999"
-                "ypos"          "9999"
-                "zpos"          "1"
-                "wide"          "14"
-                "tall"          "14"
-                "visible"       "1"
-                "enabled"       "1"
-                "scaleImage"    "1"
-            }
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
         }
     }
 	
@@ -522,16 +496,11 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
-			}				
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
 	}
 	
@@ -545,12 +514,8 @@
         "wide"          "100"
         "tall"          "14"
         "visible"       "1"
-        "enabled"       "1"
-        "PaintBackgroundType"   "0"
-
-		"navUp"			"Notifications_Panel"
-		"navLeft"		"SettingsButton"		
-
+        "enabled"       "1"	
+		
         "SubButton"
         {
             "ControlName"   "CExImageButton"
@@ -589,19 +554,15 @@
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
 
-            "SubImage"
-            {
-                "ControlName"   "ImagePanel"
-                "fieldName"     "SubImage"
-                "xpos"          "9999"
-                "ypos"          "9999"
-                "zpos"          "1"
-                "wide"          "14"
-                "tall"          "14"
-                "visible"       "1"
-                "enabled"       "1"
-                "scaleImage"    "1"
-            }
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
         }
 		
 		"NotificationsContainer"
@@ -633,8 +594,8 @@
 				"scaleImage"	"1"
 				"drawcolor" "210 125 33 255"
 				"proportionaltoparent"	"1"
-			}				
-		
+			}
+			
 			"Notifications_CountLabel"
 			{
 				"ControlName"	"CExLabel"
@@ -667,8 +628,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"0"
-		"PaintBackgroundType"	"0"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -707,14 +667,10 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 	}
@@ -729,8 +685,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"0"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -830,15 +785,10 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 	}
@@ -853,8 +803,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"0"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -893,14 +842,10 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 			}
 		}
 	}
@@ -915,8 +860,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"2"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -950,19 +894,16 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
-			}		
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
 	}
 	
@@ -976,8 +917,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"2"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1011,20 +951,32 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
-			}		
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
+	}
+	
+	"StreamListPanel"
+	{
+		"ControlName"	"CTFStreamListPanel"
+		"fieldName"		"StreamListPanel"
+		"xpos"			"c5"
+		"ypos"			"65"
+		"zpos"			"1"
+		"wide"			"0"
+		"tall"			"350"
+		"visible"		"0"
+		"PaintBackgroundType"	"2"
+		"paintbackground"	"0"
+		"border"		"MainMenuHighlightBorder"
 	}
 	
 	"SteamWorkshopButton"
@@ -1037,8 +989,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"PaintBackgroundType"	"2"
-
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1072,19 +1023,16 @@
 			
 			"image_drawcolor"	"117 107 94 255"
 			"image_armedcolor"	"235 226 202 255"
+			
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"14"
-				"tall"			"14"
-				"visible"		"1"
-				"enabled"		"1"
-				"scaleImage"	"1"
-			}		
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
 		}
 	}
 	
@@ -1124,20 +1072,16 @@
 		"depressedFgColor_override" "0 191 255 255"
 		
 		"image_drawcolor"	"235 226 202 255"
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"9999"
-			"ypos"			"9999"
-			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"glyph_options"
-		}			
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
+		}
 	}
 	
 	"TF2SettingsButton"
@@ -1175,22 +1119,17 @@
 		"depressedFgColor_override" "0 191 255 255"
 		
 		"image_drawcolor"	"235 226 202 255"
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"9999"
-			"ypos"			"9999"
-			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"glyph_options"
-			"scaleImage"	"1"
-		}				
-	}		
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
+		}
+	}
 	
 	"Console"
 	{
@@ -1202,7 +1141,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"command"		"toggleconsole"
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1241,17 +1180,12 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
-			}				
-		}		
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
+		}
 	}
 	
 	"DemoUI"
@@ -1303,17 +1237,12 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
-			}				
-		}		
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
+		}
 	}
 	
 	"Scoreboard"
@@ -1326,7 +1255,7 @@
 		"wide"			"100"
 		"tall"			"14"
 		"visible"		"1"
-		"command"		"toggleconsole"
+		
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -1365,17 +1294,12 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SubImage"
-				"xpos"			"9999"
-				"ypos"			"9999"
-				"zpos"			"1"
-				"wide"			"12"
-				"tall"			"12"
-				"visible"		"1"
-				"enabled"		"1"
-				"image"			"glyph_create"
-				"scaleImage"	"1"
-			}				
-		}		
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+			}
+		}
 	}
 	
 	"QuitButton"
@@ -1414,19 +1338,15 @@
 		"depressedFgColor_override" "0 191 255 255"
 		
 		"image_drawcolor"	"235 226 202 255"
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"9999"
-			"ypos"			"9999"
-			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"glyph_quit"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 	}
 	
@@ -1465,19 +1385,15 @@
 		"depressedFgColor_override" "0 191 255 255"
 		
 		"image_drawcolor"	"235 226 202 255"
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
-			"xpos"			"9999"
-			"ypos"			"9999"
-			"zpos"			"1"
-			"wide"			"14"
-			"tall"			"14"
-			"visible"		"1"
-			"enabled"		"1"
-			"scaleImage"	"1"
-			"image"			"glyph_quit"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"0"
+			"enabled"		"0"
 		}
 	}
 	
