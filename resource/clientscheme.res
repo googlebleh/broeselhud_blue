@@ -4549,16 +4549,6 @@ Scheme{Colors{
 			"draw_corner_width"		"5"
 			"draw_corner_height"	"5"	
 		}
-		TFFatLineBorderClear
-		{
-			"bordertype"			"scalable_image"
-			"backgroundtype"		"2"
-			
-			"src_corner_height"		"23"
-			"src_corner_width"		"23"
-			"draw_corner_width"		"5"
-			"draw_corner_height"	"5"	
-		}
 		
 		ToolTipBorder
 		{

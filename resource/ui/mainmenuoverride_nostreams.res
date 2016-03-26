@@ -1030,10 +1030,9 @@
 		"wide"					"0"
 		"tall"					"350"
 		"visible"				"0"
-		"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"2"
 		"paintbackground"		"1"
-		"bgcolor_override"		"0 0 0 160"
-		"border"				"TFFatLineBorderClear"
+		"bgcolor_override"		"0 0 0 128"
 	}
 	
 	"SteamWorkshopButton"
