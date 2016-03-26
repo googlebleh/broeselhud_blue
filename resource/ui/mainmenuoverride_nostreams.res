@@ -1022,17 +1022,17 @@
 	
 	"StreamListPanel"
 	{
-		"ControlName"	"CTFStreamListPanel"
-		"fieldName"		"StreamListPanel"
-		"xpos"			"c5"
-		"ypos"			"65"
-		"zpos"			"1"
-		"wide"			"300"
-		"tall"			"350"
-		"visible"		"0"
+		"ControlName"			"CTFStreamListPanel"
+		"fieldName"				"StreamListPanel"
+		"xpos"					"c5"
+		"ypos"					"65"
+		"zpos"					"1"
+		"wide"					"0"
+		"tall"					"350"
+		"visible"				"0"
 		"PaintBackgroundType"	"2"
-		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+		"paintbackground"		"1"
+		"bgcolor_override"		"0 0 0 128"
 	}
 	
 	"SteamWorkshopButton"
