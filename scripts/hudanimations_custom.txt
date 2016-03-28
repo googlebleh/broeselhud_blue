@@ -89,26 +89,17 @@ event HudLowAmmoPulseStop
 
 event HudSpyDisguiseChanged
 {
-	Animate PlayerStatusSpyOutlineImage	Alpha		"0"				linear 0.0 0.2
-	
-	Animate PlayerStatusSpyOutlineImage	Position	"c-200 c-200"	linear 0.0 0.2
-	Animate PlayerStatusSpyOutlineImage	Size		"400 400"		linear 0.0 0.2
-	
-	RunEvent HudSpyDisguiseHide 0.7
+	Animate PlayerStatusSpyOutlineImage	Alpha	"0"		linear 0.0 0.0
 }
 
 event HudSpyDisguiseFadeIn
 {
-	RunEvent HudSpyDisguiseChanged 0
-	
-	Animate PlayerStatusSpyImage	Alpha	"255"	linear 0.0 0.0
+	Animate PlayerStatusClassImage		Alpha	"255"	linear 0.0 0.0
 }
 
 event HudSpyDisguiseFadeOut
 {
-	RunEvent HudSpyDisguiseChanged 0
-	
-	Animate PlayerStatusSpyImage	Alpha	"0"		linear 0.0 0.0
+	Animate PlayerStatusClassImage		Alpha	"0"		linear 0.0 0.0
 }
 
 event HudMedicCharged
