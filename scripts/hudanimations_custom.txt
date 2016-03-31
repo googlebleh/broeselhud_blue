@@ -21,7 +21,7 @@ event HudHealthBonusPulse
 	Animate PlayerStatusHealthvalue			FgColor	"buffed HP"			linear 0.0 0.0
 	Animate PlayerStatusHealthvalueShadow	FgColor	"buff shadow"		linear 0.0 0.0
 	Animate PlayerStatusHealthvalueTargetID	FgColor	"TargetID buffed"	linear 0.0 0.0
-	Animate	BuffedHealthBackground			Alpha	"255"				linear 0.0 0.4
+	Animate	TargetIDbuffedHealthBG			Alpha	"255"				linear 0.0 0.4
 	
 	RunEvent HudHealthBonusPulseLoop 0.4
 }
@@ -34,7 +34,7 @@ event HudHealthBonusPulseStop
 	Animate PlayerStatusHealthvalue			fgcolor	"HP"				accel 0.0 0.0
 	Animate PlayerStatusHealthvalueShadow	fgcolor	"0 0 0 255"			accel 0.0 0.0
 	Animate PlayerStatusHealthvalueTargetID	fgcolor	"255 255 255 255"	accel 0.0 0.0
-	Animate	BuffedHealthBackground			Alpha	"0"					linear 0.0 0.1
+	Animate	TargetIDbuffedHealthBG			Alpha	"0"					linear 0.0 0.1
 }
 
 event HudHealthDyingPulse

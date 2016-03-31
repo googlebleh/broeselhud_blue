@@ -66,14 +66,14 @@
 		"scaleImage"			"1"
 	}
 	
-	"BuffedHealthBackground"
+	"TargetIDbuffedHealthBG"
 	{
 		"ControlName"			"ImagePanel"
-		"fieldName"				"BuffedHealthBackground"
+		"fieldName"				"TargetIDbuffedHealthBG"
 		"xpos"					"0"
 		"ypos"					"11"
 		"zpos"					"5"
-		"wide"					"32"
+		"wide"					"24"
 		"tall"					"12"
 		"autoResize"			"0"
 		"pinCorner"				"0"
