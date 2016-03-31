@@ -24,8 +24,5 @@ Scheme
 		
 		"Ubercharge Label"		"255 255 255 255"
 		"Ubercharge Label Full"	"255 255 255 255"
-		
-		"TargetID low HP"		"255 165 0 255"
-		"TargetID buffed"		"255 255 255 255"
 	}
 }
