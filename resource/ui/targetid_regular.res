@@ -4,25 +4,10 @@
 	{
 		"ControlName"				"CTFImagePanel"
 		"fieldName"					"TargetIDBG"
-		"xpos"						"0"
-		"ypos"						"64"
-		"zpos"						"-1"
-		"wide"						"252"
-		"tall"						"50"
-		"autoResize"				"0"
-		"pinCorner"					"0"
-		"visible"					"1"
-		"enabled"					"1"
-		"image"						"../hud/color_panel_brown"
-		"scaleImage"				"1"
-		"teambg_1"					"../hud/color_panel_brown"
-		"teambg_2"					"../hud/objectives_timepanel_red_bg"
-		"teambg_3"					"../hud/objectives_timepanel_blue_bg"
-		
-		"src_corner_height"			"3"
-		"src_corner_width"			"3"
-		"draw_corner_width"			"0"
-		"draw_corner_height" 		"0"
+		"wide"						"0"
+		"tall"						"0"
+		"visible"					"0"
+		"enabled"					"0"
 	}
 	
 	"TargetIDBG_Spec_Blue"
@@ -123,7 +108,7 @@
 		"textAlignment"				"Left"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		"fgcolor_override"			"TargetID info"
+		"fgcolor_override"			"255 255 0 255"
 	}
 	
 	"SpectatorGUIHealth"
