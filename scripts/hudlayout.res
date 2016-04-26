@@ -447,6 +447,7 @@
 		"enabled"					"1"
 		"xpos"						"c-320"
 		"ypos"						"90"
+		"zpos"						"3"
 		"wide"						"640"
 		"tall"						"100"
 	}
