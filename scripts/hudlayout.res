@@ -152,8 +152,8 @@
 		"xpos"						"c-126"
 		"ypos"						"c30"
 		"wide"						"252"
-		"tall"						"34"
-		"tall_minmode"				"34"
+		"tall"						"24"
+		"tall_minmode"				"24"
 		"priority"					"40"
 		"priority_lodef"			"40"
 	}
@@ -166,8 +166,8 @@
 		"xpos"						"c-126"
 		"ypos"						"c100"
 		"wide"						"252"
-		"tall"						"34"
-		"tall_minmode"				"34"
+		"tall"						"24"
+		"tall_minmode"				"24"
 		"priority"					"40"
 		"priority_lodef"			"40"
 		
@@ -183,8 +183,8 @@
 		"xpos"						"c-126"
 		"ypos"						"c65"
 		"wide"						"252"
-		"tall"						"34"
-		"tall_minmode"				"34"
+		"tall"						"24"
+		"tall_minmode"				"24"
 		"priority"					"35"
 	}
 	
