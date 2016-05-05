@@ -334,7 +334,7 @@
 		"ypos"						"c-25"
 		"wide"						"50"
 		"tall"						"51"
-		"font"						"seeker11" // options: seeker10, seeker10outline, seeker11, seeker11outline, seeker12, seeker12outline
+		"font"						"seeker11" // options: seeker9, seeker10, seeker11, seeker12
 		"labelText"					"x"
 		"textAlignment"				"center"
 		"fgcolor"					"255 255 255 255"

@@ -1739,6 +1739,18 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"seeker9"
+		{
+			"1"
+			{
+				"name"			"tf2cross"
+				"tall"			"9"
+				"weight"		"0"
+				"antialias"		"1"
+				"additive"		"0"
+				"outline"		"0"
+			}
+		}
 		"seeker10"
 		{
 			"1"
@@ -1749,18 +1761,6 @@ Scheme
 				"antialias"		"1"
 				"additive"		"0"
 				"outline"		"0"
-			}
-		}
-		"seeker10outline"
-		{
-			"1"
-			{
-				"name"			"tf2cross"
-				"tall"			"10"
-				"weight"		"0"
-				"antialias"		"1"
-				"additive"		"0"
-				"outline"		"1"
 			}
 		}
 		"seeker11"
@@ -1775,18 +1775,6 @@ Scheme
 				"outline"		"0"
 			}
 		}
-		"seeker11outline"
-		{
-			"1"
-			{
-				"name"			"tf2cross"
-				"tall"			"11"
-				"weight"		"0"
-				"antialias"		"1"
-				"additive"		"0"
-				"outline"		"1"
-			}
-		}
 		"seeker12"
 		{
 			"1"
@@ -1797,18 +1785,6 @@ Scheme
 				"antialias"		"1"
 				"additive"		"0"
 				"outline"		"0"
-			}
-		}
-		"seeker12outline"
-		{
-			"1"
-			{
-				"name"			"tf2cross"
-				"tall"			"12"
-				"weight"		"0"
-				"antialias"		"1"
-				"additive"		"0"
-				"outline"		"1"
 			}
 		}
 		
