@@ -348,6 +348,16 @@
 		"enabled"					"0"
 	}
 	
+	"Player1Badge"
+	{
+		"ControlName"				"CTFBadgePanel"
+		"fieldName"					"Player1Badge"
+		"wide"						"0"
+		"tall"						"0"
+		"visible"					"0"
+		"enabled"					"0"
+	}
+	
 	"Player1Avatar"
 	{
 		"ControlName"				"CAvatarImagePanel"
@@ -414,6 +424,16 @@
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
+	}
+	
+	"Player2Badge"
+	{
+		"ControlName"				"CTFBadgePanel"
+		"fieldName"					"Player2Badge"
+		"wide"						"0"
+		"tall"						"0"
+		"visible"					"0"
+		"enabled"					"0"
 	}
 	
 	"Player2Avatar"
@@ -484,6 +504,16 @@
 		"textAlignment"				"east"
 		"dulltext"					"0"
 		"brighttext"				"0"
+	}
+	
+	"Player3Badge"
+	{
+		"ControlName"				"CTFBadgePanel"
+		"fieldName"					"Player3Badge"
+		"wide"						"0"
+		"tall"						"0"
+		"visible"					"0"
+		"enabled"					"0"
 	}
 	
 	"Player3Avatar"
@@ -591,6 +621,16 @@
 	{
 		"ControlName"				"ImagePanel"
 		"fieldName"					"HorizontalLine2"
+		"wide"						"0"
+		"tall"						"0"
+		"visible"					"0"
+		"enabled"					"0"
+	}
+	
+	"KillStreakPlayer1Badge"
+	{
+		"ControlName"				"CTFBadgePanel"
+		"fieldName"					"KillStreakPlayer1Badge"
 		"wide"						"0"
 		"tall"						"0"
 		"visible"					"0"
