@@ -10,7 +10,7 @@
 		"wide"						"296"
 		"tall"						"f0"
 		"visible"					"1"
-		"bgcolor_override"			"0 0 0 50"
+		"bgcolor_override"			"0 0 0 100"
 	}
 	
 	"LoadingPanel"
@@ -67,7 +67,7 @@
 		"fieldName"					"PreviewImage"
 		"xpos"						"5"
 		"ypos"						"3"
-		"zpos"						"1"
+		"zpos"						"2"
 		"wide"						"80"
 		"tall"						"50"
 		"visible"					"1"
@@ -84,6 +84,7 @@
 		"textAlignment"				"west"
 		"xpos"						"90"
 		"ypos"						"0"
+		"zpos"						"5"
 		"wide"						"205"
 		"tall"						"15"
 		"autoResize"				"0"
@@ -102,13 +103,14 @@
 		"textAlignment"				"north-west"
 		"xpos"						"90"
 		"ypos"						"15"
+		"zpos"						"5"
 		"wide"						"205"
 		"tall"						"24"
 		"autoResize"				"0"
 		"pinCorner"					"0"
 		"visible"					"1"
 		"enabled"					"1"
-		"fgcolor"					"215 215 215 255"
+		"fgcolor"					"255 255 255 255"
 		"wrap"						"1"
 	}
 	
@@ -121,6 +123,7 @@
 		"textAlignment"				"west"
 		"xpos"						"90"
 		"ypos"						"39"
+		"zpos"						"5"
 		"wide"						"205"
 		"tall"						"10"
 		"autoResize"				"0"
@@ -136,7 +139,7 @@
 		"fieldName"					"Stream_URLButton"
 		"xpos"						"2"
 		"ypos"						"0"
-		"zpos"						"100"
+		"zpos"						"10"
 		"wide"						"296"
 		"tall"						"50"
 		"autoResize"				"0"
@@ -156,6 +159,6 @@
 		"defaultFgColor_override"	"0 0 0 0"
 		"defaultBgColor_override"	"0 0 0 0"
 		"armedFgColor_override"		"0 0 0 0"
-		"armedBgColor_override"		"0 0 0 20"
+		"armedBgColor_override"		"0 0 0 50"
 	}
 }
