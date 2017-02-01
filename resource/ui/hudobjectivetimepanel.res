@@ -20,7 +20,7 @@
 		
 		if_match
 		{
-			"visible"	"0"
+			"visible"			"0"
 		}
 	}
 	
@@ -145,6 +145,11 @@
 		"font"					"surface10"
 		"fgcolor"				"255 255 255 255"
 		"bgcolor_override"		"0 0 0 95"
+		
+		if_match
+		{
+			"bgcolor_override"	"0 0 0 0"
+		}
 	}
 	
 	"SetupBG"
