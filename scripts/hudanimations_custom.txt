@@ -165,3 +165,7 @@ event WinPanel_NormalPos
 {
 	Animate WinPanel ypos 315 linear 0 0
 }
+
+event HudTournament_ShowRoundSign
+{
+}
