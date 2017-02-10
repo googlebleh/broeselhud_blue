@@ -1,7 +1,7 @@
 event DamagedPlayer
 {
-    StopEvent HitMarker 0.0
-    RunEvent HitMarker 0.01
+	StopEvent	HitMarker	0.0
+	RunEvent	HitMarker	0.01
 }
 
 event HitMarker
@@ -157,4 +157,8 @@ event WinPanel_CompPos
 event WinPanel_NormalPos
 {
 	Animate WinPanel ypos 315 linear 0 0
+}
+
+event HudTournament_ShowRoundSign
+{
 }

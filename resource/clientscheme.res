@@ -766,6 +766,39 @@ Scheme
 				"outline"		"0"
 			}
 		}
+		surfaceNumbers18outline
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"18"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surfaceNumbers20outline
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"20"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
+		surfaceNumbers23outline
+		{
+			"1"
+			{
+				"name"			"SurfaceNumbers-Medium"
+				"tall"			"23"
+				"additive"		"0"
+				"antialias" 	"1"
+				"outline"		"1"
+			}
+		}
 		surfaceNumbers28
 		{
 			"1"
